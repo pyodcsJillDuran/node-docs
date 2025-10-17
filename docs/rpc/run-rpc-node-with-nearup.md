@@ -83,3 +83,5 @@ Then run:
 
 The latest daily snapshots are made available to the public by FastNear, and can be used to set up a validator node or RPC. 
 For detailed instructions, please refer to [HERE](https://docs.fastnear.com/docs/snapshots).
+
+<!-- Auto-update: 2025-10-17T08:42:44.642795 -->
